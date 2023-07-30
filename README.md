@@ -15,9 +15,9 @@ SQL Queries:
 Data Visualizations: Tableau
 
 # Background
-DUFT by Schaffy is a temporary brand run by Schaffy Zainuddin, an influencer with more than 170K subcribers on Youube and over 20K followers on Instagram. The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the opulent Luxurious Rose scent, tailored for confident extroverts and elegant gatherings.
+DUFT by Schaffy is a temporary company to sell only 1000 products run by Schaffy Zainuddin, an influencer with more than 170K subcribers on YouTube and over 20K followers on Instagram. The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the opulent Luxurious Rose scent, tailored for confident extroverts and elegant gatherings.
 
-Operating in Malaysia, a muslim majority country, yet entirely managed in Switzerland, DUFT by Schaffy achieved a commendable break-even within two months, retailing 1000 products in 10 months. Employing various marketing strategies, including influencer and celebrity endorsements, the outcomes have been intriguingly unpredictable. The sales peak during December, coinciding with Christmas celebrations, while sales during Eid, the Muslim equivalent of Christmas, exhibit a downturn. Leveraging data analytics, our case study seeks to unravel the underlying factors behind these trends.
+Operating in Malaysia, a muslim majority country, yet entirely managed remotely in Switzerland, DUFT by Schaffy achieved a commendable break-even within two months, retailing 1000 products in a year. Employing various marketing strategies, including influencer and celebrity endorsements, the outcomes have been intriguingly unpredictable. The sales peak during December, coinciding with Christmas celebrations, while sales during Eid, the Muslim equivalent of Christmas, exhibit a downturn. Leveraging data analytics, our case study seeks to unravel the underlying factors behind these trends.
 
 
 # Ask
