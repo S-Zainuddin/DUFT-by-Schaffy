@@ -3,7 +3,7 @@ A temporary comnpany to dive deeper into understanding data and how to make data
 
 Google Data Analytics Capstone: DUFT by Schaffy
 
-1. Introduction
+# Introduction
 In this case study, I will perform many real-world tasks of a junior data analyst at my temporary company, DUFT by Schaffy (link). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 Quick links:
@@ -16,7 +16,7 @@ SQL Queries:
 
 Data Visualizations: Tableau
 
-2. Background
+# Background
 
 3. Ask
 Business Task
