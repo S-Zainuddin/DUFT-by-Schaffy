@@ -18,7 +18,7 @@ Data Visualizations: Tableau
 
 # Background
 
-3. Ask
+# Ask
 Business Task
 Devise marketing strategies to convert casual riders to members.
 
@@ -30,13 +30,13 @@ Why would casual riders buy Cyclistic annual memberships?
 How can Cyclistic use digital media to influence casual riders to become members?
 Moreno has assigned me the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
 
-4. Prepare
+# Prepare
 Data Source
 
 Data Organization
 There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
 
-5. Process
+# Process
 BigQuery is used to combine the various datasets into one dataset and clean it.
 Reason:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
@@ -57,11 +57,11 @@ All the rows having missing values are deleted.
 Trips with duration less than a minute and longer than a day are excluded.
 Total 1,375,912 rows are removed in this step.
 
-6. Analyze and Share
+# Analyze and Share
 SQL Query: Data Analysis
 Data Visualization: Tableau
 
-7. Act
+# Act
 After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
 Recommendations:
 
