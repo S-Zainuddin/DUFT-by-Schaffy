@@ -1,12 +1,10 @@
-# DUFT by Schaffy
-A temporary comnpany to dive deeper into understanding data and how to make data-driven decision making
+# [DUFT by Schaffy](https://duftswiss.com/)
+A temporary company to dive deeper into understanding data and how to make data-driven decision making.
 
-Google Data Analytics Capstone: DUFT by Schaffy
+Course certificate: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
 
 # Introduction
-In this case study, I will perform many real-world tasks of a junior data analyst at my temporary company, DUFT by Schaffy (link). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
-
-Quick links:
+In this case study, I will perform many real-world tasks of a junior data analyst at my temporary company, [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 SQL Queries:
 01. Data Combining
@@ -17,6 +15,8 @@ SQL Queries:
 Data Visualizations: Tableau
 
 # Background
+
+
 
 # Ask
 Business Task
