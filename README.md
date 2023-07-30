@@ -27,8 +27,8 @@ These questions will guide the future marketing program:
 
 1. How did the company achieve break-even within two months with only 170K subcribers on YouTube and 25K on Instagram?
 1. Which type of marketing exposure is most succesful?
-  - Endorsement: Celebrity or influencer
-  - Platform: YouTube or Instagram
+   - Endorsement: Celebrity or influencer
+   - Platform: YouTube or Instagram
 1. Why would the customers spend so much during December but not during April (Eid)?
 1. How can DUFT use digital media to influence buyers to buy more products?
 
