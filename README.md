@@ -1,4 +1,4 @@
-# DUFT-by-Schaffy
+# DUFT by Schaffy
 A temporary comnpany to dive deeper into understanding data and how to make data-driven decision making
 
 Google Data Analytics Capstone: DUFT by Schaffy
