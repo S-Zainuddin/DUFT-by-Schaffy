@@ -23,7 +23,6 @@ Operating in Malaysia, a muslim majority country, yet entirely managed remotely 
 # Ask
 
 Analysis Questions
-These questions will guide the future marketing program:
 
 1. Which type of marketing exposure is most succesful:
    - Endorsement: Celebrity or influencer?
