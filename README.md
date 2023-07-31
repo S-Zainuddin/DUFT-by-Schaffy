@@ -9,7 +9,7 @@ In this case study, I am performing data analytics tasks as the Digital Marketin
 Technical processes included:
 01. Data Exploration (spreadsheet)
 02. Data Merging (spreadsheet)
-03. Data Cleaning (spreadsheet)
+03. Data Cleaning (spreadsheet) [Shipment Report (cleaned),](https://docs.google.com/spreadsheets/d/1wa46LmuE2DELTxfd0UK7dWhwiXqrbVkv-3jxKbVfVyo/edit?usp=sharing) [Customer Persona (cleaned)](https://docs.google.com/spreadsheets/d/1tsIvlwGVXkzDTGnek8y7EfeY6NKKjy36HEJ86s0_Nwk/edit?usp=sharing)
 04. Data Combining (SQL)
 05. Data Analysis (SQL)
 06. Data Visualizations (Tableau)
