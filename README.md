@@ -34,6 +34,14 @@ Data Source and Organization
 
 There are 3 files wich are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' it includes information for each month's total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
 
+Challenges:
+
+01. According to the spreadsheet, there is only 'name' given but no customer_id. Customer_id must be added into the coloumn as it can be used to protect data privacy.
+
+02. With data privacy set up within woocommerce, all data about customers in customer_report from August 2022 to January 2023 are automatically deleted leaving only 'number of order' 'total spend' and 'last time updated'. The only way to retrieve some of the important data is by collecting them from other platform which is easyparcel.com, an online delivery service. There are 363 parcels sent and delivered.
+
+03. The two source of database must be merged together in order to create customer_id.
+
 # Process
 Spreadsheet is used to combine the various datasets into one dataset and clean it.
 
@@ -44,7 +52,11 @@ Since the number of dataset is below 100,000 it is the company's best ineterest 
 
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
-### 02. Data Cleaning (Spreadsheet)
+### 02. Data Merging (Spreadsheet)
+
+Database from two different platforms are merged together to create customer_id. It is done wthin a single csv file caled customer_report.
+
+### 03. Data Cleaning (Spreadsheet)
 
 - All the rows having missing values are deleted.
 - 3 more columns are added 'order_id', 'sex' and 'region' (for data privacy purpose before sharing this data to the public)
@@ -53,17 +65,17 @@ Before cleaning the data, I am familiarizing myself with the data to find the in
 - Unsuccessful orders that equals to $0 payment are excluded.
 - Total 14 rows are removed in this step.
 
-### 03. Combining the Data (SQL)
+### 04. Combining the Data (SQL)
 
 Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
 
 # Analyze and Share
 
-### 04. Data Analysis (SQL)
+### 05. Data Analysis (SQL)
 
 I utilized SQL to extract data from 2 different tables from the database using **JOIN** and **VIEW**.
 
-### 05. Data Visualization
+### 06. Data Visualization
 
 Please refer here: Tableau
 
