@@ -65,10 +65,21 @@ Since the number of dataset is below 100,000 it is the company's best ineterest 
 
 ### 03. Data Cleaning (Spreadsheet)
 
+For customer_report file:
 - All the rows having missing values are deleted.
-- 3 more columns are added 'order_id', 'sex' and 'region' (for data privacy purpose before sharing this data to the public)
--    'order_id' and 'sex' to replace customers' names
+- One more column is added, 'order_id' (for data privacy purpose before sharing this data to the public)
+-    'order_id' to replace customers' names
 -    'region' is to replace their full address
+- Unsuccessful orders that equals to $0 payment are excluded.
+- Total 14 rows are removed in this step.
+
+For customer_persona file:
+- Copied from customer_report file.
+- Four more columns are added,
+-    Country
+-    Sex
+-    Religion
+-    Total Spend
 - Unsuccessful orders that equals to $0 payment are excluded.
 - Total 14 rows are removed in this step.
 
