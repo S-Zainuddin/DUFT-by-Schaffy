@@ -31,9 +31,15 @@ Analysis Questions
 1. How can DUFT use digital media to influence buyers to buy more products?
 
 # Prepare
-Data Source and Organization
+Data Source:
 
-There are 3 files wich are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' it includes information for each month's total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
+* Data are collected after every marketing campaigns. There are six marketing campaigns over the course of one year (Christmas Sale, Chinese New Year Sale, Harry Potter Sale, Eid Sale, Mother's Day Sale and Goodbye Sale)
+
+* Endorsement from a local [influencer with 270K followers on Instagram](https://www.instagram.com/aisyahhabshee/?hl=en) is performed during Harry Potter Sale
+
+* Endorsement from a local [celebrity with 1M followers on Instagram](https://www.instagram.com/mishaomar/?hl=en) is performed during Mother's Day Sale
+
+* There are 3 files which are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' it includes information for each month's total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
 
 Challenges:
 
