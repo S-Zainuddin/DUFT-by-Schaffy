@@ -43,7 +43,7 @@ Data Source:
 
 Challenges:
 
-01. According to the spreadsheet, there is only 'name' given but no customer_id. Customer_id must be added into the coloumn as it can be used to protect data privacy.
+01. According to the spreadsheet, there is only 'name' given but no customer_id. Customer_id must be added into the coloumn as it will be used to protect data privacy before sharing this database to public.
 
 02. With data privacy set up within woocommerce, all data about customers in customer_report from August 2022 to January 2023 are automatically deleted leaving only 'number of order' 'total spend' and 'last time updated'. The only way to retrieve some of the important data is by collecting them from other platform which is easyparcel.com, an online delivery service. There are 363 parcels sent and delivered.
 
