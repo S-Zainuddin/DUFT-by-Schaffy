@@ -33,41 +33,47 @@ Analysis Questions
 Data Source
 
 Data Organization
-There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
+There are 3 files wich are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' includes information for each month total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
 
 # Process
-BigQuery is used to combine the various datasets into one dataset and clean it.
-Reason:
-A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
+Spreadsheet is used to combine the various datasets into one dataset and clean it.
 
-Data Exploration
-Spreadsheet: Data Exploration
+Reason:
+Since the number of dataset is below 100,000 it is the company's best ineterest to use spreadsheet to maintain the small number of data. It is however essential at this point to use a platform like BigQuery, so I can demonstrate my technical skills in SQL.
+
+### 01. Data Exploration (Spreadsheet)
+
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
-Data Cleaning
-Spreadsheet: Data Cleaning
+### 02. Data Cleaning (Spreadsheet)
 
-All the rows having missing values are deleted.
-3 more columns are added (for data privacy purpose when sharing this data to the public):
-- order_id and sex to replace customers' names
-- region to replace their full address
-Unsuccessful orders that equals to $0 payment are excluded.
-Total 14 rows are removed in this step.
+- All the rows having missing values are deleted.
+- 3 more columns are added 'order_id', 'sex' and 'region' (for data privacy purpose before sharing this data to the public)
+-    'order_id' and 'sex' to replace customers' names
+-    'region' is to replace their full address
+- Unsuccessful orders that equals to $0 payment are excluded.
+- Total 14 rows are removed in this step.
 
-Combining the Data
-SQL Query: Data Combining
-3 csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
+### 03. Combining the Data (SQL)
+
+Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
 
 # Analyze and Share
-SQL Query: Data Analysis
-I utilized SQL to extract data from 2 different tables from the database using JOIN and VIEW.
 
-Data Visualization: Tableau
+### 04. Data Analysis (SQL)
+
+I utilized SQL to extract data from 2 different tables from the database using **JOIN** and **VIEW**.
+
+### 05. Data Visualization
+
+Please refer here: Tableau
 
 # Act
-After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
+
 Recommendations:
 
-Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
-Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
-Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
+Marketing campaigns for luxurious products are best to be conducted in December of the year than any month. Expect a drop of sale during religious celebration for luxurious product. 
+
+Endorsement from influencers are more effective than an A-class celebrity. Although the influencers's audience must first be analyzed to reach the targeted results during marketing campaign
+
+Best to offer discounts is during last week of the month starting from Thursday. Saturday and Sunday is not that effective.
