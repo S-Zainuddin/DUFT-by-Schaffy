@@ -8,10 +8,11 @@ In this case study, I am performing data analytics tasks as the Digital Marketin
 
 Technical processes included:
 01. Data Exploration (spreadsheet)
-02. Data Cleaning (spreadsheet)
-03. Data Combining (SQL)
-04. Data Analysis (SQL)
-05. Data Visualizations (Tableau)
+02. Data Merging (spreadsheet)
+03. Data Cleaning (spreadsheet)
+04. Data Combining (SQL)
+05. Data Analysis (SQL)
+06. Data Visualizations (Tableau)
 
 # Background
 [DUFT by Schaffy](https://duftswiss.com/) is a temporary company to sell only 1000 products run by [Schaffy Zainuddin](https://www.youtube.com/@schaffyzainuddin/), an influencer with more than 170K subcribers on YouTube and over 25K followers on [Instagram](https://www.instagram.com/schaffybuffy/). The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the opulent Luxurious Rose scent, tailored for confident extroverts and elegant gatherings.
