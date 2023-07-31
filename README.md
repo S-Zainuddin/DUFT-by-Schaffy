@@ -30,10 +30,9 @@ Analysis Questions
 1. How can DUFT use digital media to influence buyers to buy more products?
 
 # Prepare
-Data Source
+Data Source and Organization
 
-Data Organization
-There are 3 files wich are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' includes information for each month total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
+There are 3 files wich are 'annual_sale', 'customer_report' and 'customer_persona'. For 'annual_sale' it includes information for each month's total sale, total order, total shipping amount, total gross saleand total net sale. In 'customer_persona' includes names, order_id, number of order, date purchased, product type, region, email, address, total spend, AOV, Postcode. 'customer_persona' includes names, order_id, sex, relegion and age
 
 # Process
 Spreadsheet is used to combine the various datasets into one dataset and clean it.
