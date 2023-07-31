@@ -1,5 +1,5 @@
 # [DUFT by Schaffy](https://duftswiss.com/)
-A temporary company to dive deeper into understanding data and how to make data-driven decision making.
+A temporary company created to learn deeper into understanding how to make data-driven decision.
 
 Course certificate: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
 
