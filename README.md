@@ -48,13 +48,13 @@ Spreadsheet is used to combine the various datasets into one dataset and clean i
 Reason:
 Since the number of dataset is below 100,000 it is the company's best ineterest to use spreadsheet to maintain the small number of data. It is however essential at this point to use a platform like BigQuery, so I can demonstrate my technical skills in SQL.
 
-### 01. Data Exploration (Spreadsheet)
+### 1. Data Exploration (Spreadsheet)
 
-Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
+* Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
-### 02. Data Merging (Spreadsheet)
+### 2. Data Merging (Spreadsheet)
 
-Database from two different platforms are merged together to create customer_id. It is done wthin a single csv file caled customer_report.
+* Database from two different platforms are merged together to create customer_id. It is done wthin a single csv file caled customer_report.
 
 ### 03. Data Cleaning (Spreadsheet)
 
@@ -67,17 +67,17 @@ Database from two different platforms are merged together to create customer_id.
 
 ### 04. Combining the Data (SQL)
 
-Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
+* Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
 
 # Analyze and Share
 
 ### 05. Data Analysis (SQL)
 
-I utilized SQL to extract data from 2 different tables from the database using **JOIN** and **VIEW**.
+*  I utilized SQL to extract data from 2 different tables from the database using **JOIN** and **VIEW**.
 
 ### 06. Data Visualization
 
-Please refer here: Tableau
+* Please refer here: Tableau
 
 # Act
 
