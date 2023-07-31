@@ -6,13 +6,12 @@ Course certificate: [Google Data Analytics Capstone: Complete a Case Study](http
 # Introduction
 In this case study, I will perform many real-world tasks of a junior data analyst at my temporary company, [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-SQL Queries:
-01. Data Combining
-02. Data Exploration
-03. Data Cleaning
-04. Data Analysis
-
-Data Visualizations: Tableau
+Technical processes:
+01. Data Exploration (spreadsheet)
+02. Data Cleaning (spreadsheet)
+03. Data Combining (SQL)
+04. Data Analysis (SQL)
+05. Data Visualizations (Tableau)
 
 # Background
 [DUFT by Schaffy](https://duftswiss.com/) is a temporary company to sell only 1000 products run by [Schaffy Zainuddin](https://www.youtube.com/@schaffyzainuddin/), an influencer with more than 170K subcribers on YouTube and over 25K followers on [Instagram](https://www.instagram.com/schaffybuffy/). The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the opulent Luxurious Rose scent, tailored for confident extroverts and elegant gatherings.
