@@ -24,7 +24,7 @@ Operating in Malaysia, a muslim majority country, yet entirely managed remotely 
 
 Analysis Questions
 
-1. Which type of marketing exposure is most succesful:
+1. Which type of marketing exposure is most succesful when promoting luxurious product:
    - Endorsement: Celebrity or influencer?
    - Platform: YouTube or Instagram?
 1. When is the best time of the month and year to promote luxurious products while still maintain its exclusiveness?
@@ -84,8 +84,10 @@ Since the number of dataset is below 100,000 it is the company's best ineterest 
 
 Recommendations:
 
-Marketing campaigns for luxurious products are best to be conducted in December of the year than any month. Expect a drop of sale during religious celebration for luxurious product. 
-
-Endorsement from influencers are more effective than an A-class celebrity. Although the influencers's audience must first be analyzed to reach the targeted results during marketing campaign
+Endorsement from influencers are more effective than an A-class celebrity. Although the influencers's audience must first be analyzed to reach the targeted results during marketing campaign.
 
 Best to offer discounts is during last week of the month starting from Thursday. Saturday and Sunday is not that effective.
+
+Marketing campaigns for luxurious products are best to be conducted in December of the year than any month. Expect a drop of sale during religious celebration for luxurious product. 
+
+
