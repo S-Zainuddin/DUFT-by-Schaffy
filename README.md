@@ -4,9 +4,9 @@ A temporary company to dive deeper into understanding data and how to make data-
 Course certificate: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
 
 # Introduction
-In this case study, I will perform many real-world tasks of a junior data analyst at my temporary company, [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+In this case study, I am performing data analytics tasks as the Digital Marketing Manager at [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
-Technical processes:
+Technical processes included:
 01. Data Exploration (spreadsheet)
 02. Data Cleaning (spreadsheet)
 03. Data Combining (SQL)
