@@ -41,24 +41,28 @@ BigQuery is used to combine the various datasets into one dataset and clean it.
 Reason:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
 
-Combining the Data
-SQL Query: Data Combining
-12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
-
 Data Exploration
-SQL Query: Data Exploration
+Spreadsheet: Data Exploration
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
 Data Cleaning
-SQL Query: Data Cleaning
+Spreadsheet: Data Cleaning
 
 All the rows having missing values are deleted.
-3 more columns ride_length for duration of the trip, day_of_week and month are added.
-Trips with duration less than a minute and longer than a day are excluded.
-Total 1,375,912 rows are removed in this step.
+3 more columns are added (for data privacy purpose when sharing this data to the public):
+- order_id and sex to replace customers' names
+- region to replace their full address
+Unsuccessful orders that equals to $0 payment are excluded.
+Total 14 rows are removed in this step.
+
+Combining the Data
+SQL Query: Data Combining
+3 csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
 
 # Analyze and Share
 SQL Query: Data Analysis
+I utilized SQL to extract data from 2 different tables from the database using JOIN and VIEW.
+
 Data Visualization: Tableau
 
 # Act
