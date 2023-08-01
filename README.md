@@ -1,7 +1,7 @@
 # [DUFT by Schaffy](https://duftswiss.com/)
 A company created to study data-driven decision making.
 
-Course certificate: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
+[Course certificate for Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
 
 # Introduction
 In this case study, I am performing data analytics tasks as the Digital Marketing Manager at [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
