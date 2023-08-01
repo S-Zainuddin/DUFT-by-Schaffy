@@ -7,9 +7,9 @@ Course certificate: [Google Data Analytics Capstone: Complete a Case Study](http
 In this case study, I am performing data analytics tasks as the Digital Marketing Manager at [DUFT by Schaffy](https://duftswiss.com/). In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 Technical processes included:
-01. Data Exploration (spreadsheet)
+01. Data Exploration (spreadsheet) [Shipment Report (raw but complete),](https://docs.google.com/spreadsheets/d/1GJXUTIs9mA_2KQewCUC8mBlYMuzv37Xr9gE7hwv4Xwg/edit?usp=sharing) [Customer Report (raw & incomplete)](https://docs.google.com/spreadsheets/d/1DeJP3ipuAoH03-n637Y6AaxwYkdooS5uKw0ghecJFKI/edit?usp=sharing)
 02. Data Merging (spreadsheet)
-03. Data Cleaning (spreadsheet) [Shipment Report (cleaned),](https://docs.google.com/spreadsheets/d/1wa46LmuE2DELTxfd0UK7dWhwiXqrbVkv-3jxKbVfVyo/edit?usp=sharing) [Customer Persona (cleaned)](https://docs.google.com/spreadsheets/d/1tsIvlwGVXkzDTGnek8y7EfeY6NKKjy36HEJ86s0_Nwk/edit?usp=sharing)
+03. Data Cleaning (spreadsheet) [Shipment Report (merged and cleaned),](https://docs.google.com/spreadsheets/d/1wa46LmuE2DELTxfd0UK7dWhwiXqrbVkv-3jxKbVfVyo/edit?usp=sharing) [Customer Report (cleaned)](https://docs.google.com/spreadsheets/d/1tsIvlwGVXkzDTGnek8y7EfeY6NKKjy36HEJ86s0_Nwk/edit?usp=sharing)
 04. Data Combining (SQL)
 05. Data Analysis (SQL)
 06. Data Visualizations (Tableau)
