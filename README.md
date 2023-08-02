@@ -17,7 +17,8 @@ Technical processes included:
     - [Customer Report (cleaned)](https://docs.google.com/spreadsheets/d/1tsIvlwGVXkzDTGnek8y7EfeY6NKKjy36HEJ86s0_Nwk/edit?usp=sharing)
 04. Data Combining (SQL)
 05. Data Analysis (SQL)
-06. Data Visualizations [(Tableau)](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
+06. Data Visualizations 
+    - [(Tableau)](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
 
 # Background
 [DUFT by Schaffy](https://duftswiss.com/) is a temporary company to sell only 1000 products run by [Schaffy Zainuddin](https://www.youtube.com/@schaffyzainuddin/), an influencer with more than 170K subcribers on YouTube and over 25K followers on [Instagram](https://www.instagram.com/schaffybuffy/). The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the elegant Luxurious Rose scent, tailored to invoke confidence at gatherings.
