@@ -58,11 +58,11 @@ Spreadsheet is used to combine the various datasets into one dataset and clean i
 Reason:
 Since the number of dataset is below 100,000 it is the company's best ineterest to use spreadsheet to maintain the small number of data. It is however essential at this point to use a platform like BigQuery, so I can demonstrate my technical skills in SQL.
 
-### 1. Data Exploration (Spreadsheet)
+### 01. Data Exploration (Spreadsheet)
 
 * Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
-### 2. Data Merging (Spreadsheet)
+### 02. Data Merging (Spreadsheet)
 
 * Database from two different platforms are merged together to create customer_id. It is done wthin a single csv file caled customer_report.
 
