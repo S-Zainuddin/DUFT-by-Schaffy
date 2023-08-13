@@ -94,17 +94,25 @@ For customer_persona file:
 
 ### 05. Data Analysis (SQL)
 
-*  I utilized SQL to extract data from 2 different tables from the database using **JOIN** and **VIEW**.
+*  I utilized SQL to extract data from 2 different tables from the database using **JOIN** for analysis.
 
 ### 06. Data Visualization
 
 * Please refer here: [Tableau](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
 
+
 # Act
 
-Recommendations:
+Answering the analysis questions and recommendations:
 
+1. What is the most effective month to launch a marketing campaign for a luxury product in a Muslim country? Does the occurrence of religious celebrations influence the outcomes?
 
-Marketing campaigns for luxurious products are best to be conducted in December of the year than any month. Expect a drop of sale during religious celebration for luxurious product. 
+Even in a Muslim-majority country, it is optimal to run a high budget marketing campaigns for luxury products in December as opposed to any other month. This choice is not influenced by religious celebrations; rather, it stems from the fact that during this time, individuals tend to possess greater purchasing power due to end-of-year bonuses. It is important to anticipate a decline in sales during religious festivities such as Chinese New Year and Eid. One of the contributing factors is that people tend to allocate their spending towards the religious celebrations, prioritizing them over expenditures on high-end items.
+
+2. How did DUFT successfuly influenced buyers to buy more luxury products?
+
+Enhance the perception of exclusivity.
+
+The strategy: During the recent marketing campaign titled "Goodbye Sale," the volume of orders surged significantly, resulting in products being out of stock within a month's time. Notably, this campaign generated the highest revenue compared to all previous marketing endeavors, even surpassing the Winter Sale held in December. This success can be attributed to the strategy employed, which aimed to create a sense of urgency by emphasizing the dwindling availability of items. The campaign's messaging conveyed that DUFT would be closing its doors in two months, enhancing the perception of exclusivity. Evidently, this approach effectively resonated with customers and yielded the intended outcomes.
 
 
