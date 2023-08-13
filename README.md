@@ -90,7 +90,7 @@ For customer_persona file:
 
 * Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
 
-# Analyze and Share
+# Analyze, Share and Act
 
 ### 05. Data Analysis (SQL)
 
@@ -99,9 +99,6 @@ For customer_persona file:
 ### 06. Data Visualization
 
 * Please refer here: [Tableau](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
-
-
-# Act
 
 Answering the analysis questions and recommendations:
 
