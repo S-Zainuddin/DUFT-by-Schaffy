@@ -30,10 +30,7 @@ Operating in Malaysia, a muslim majority country, yet entirely managed remotely 
 
 Analysis Questions
 
-1. Which type of marketing exposure is most succesful when promoting luxurious product:
-   - Endorsement: Celebrity or influencer?
-   - Platform: YouTube or Instagram?
-1. When is the best time of the month and year to promote luxurious products while still maintain its exclusiveness?
+1. What is the most effective month to launch a marketing campaign for a luxury product in a Muslim country? Does the occurrence of religious celebrations influence the outcomes?
 1. How can DUFT use digital media to influence buyers to buy more products?
 
 # Prepare
@@ -107,9 +104,6 @@ For customer_persona file:
 
 Recommendations:
 
-Endorsement from influencers are more effective than an A-class celebrity. Although the influencers's audience must first be analyzed to reach the targeted results during marketing campaign.
-
-Best to offer discounts is during last week of the month starting from Thursday. Saturday and Sunday is not that effective.
 
 Marketing campaigns for luxurious products are best to be conducted in December of the year than any month. Expect a drop of sale during religious celebration for luxurious product. 
 
