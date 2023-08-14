@@ -106,11 +106,11 @@ For customer_persona file:
 1. What is the most effective month to launch a marketing campaign for a luxury product in a Muslim country?
 - December (during Christmas time)
 
-2.Does the occurrence of religious celebrations influence the outcomes?
+2. Does the occurrence of religious celebrations influence the outcomes?
 
 - Even in a Muslim-majority country, it is optimal to run a high budget marketing campaigns for luxury products in December as opposed to any other month. This choice is not influenced by religious celebrations; rather, it stems from the fact that during this time, individuals tend to possess greater purchasing power due to end-of-year bonuses. It is important to anticipate a decline in sales during religious festivities such as Chinese New Year and Eid. One of the contributing factors is that people tend to allocate their spending towards the religious celebrations, prioritizing them over expenditures on high-end items.
 
-2. How did DUFT successfuly influenced buyers to buy more luxury products?
+3. How did DUFT successfuly influenced buyers to buy more luxury products?
 
 - Enhance the perception of exclusivity.
 
