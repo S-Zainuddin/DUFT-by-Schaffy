@@ -1,13 +1,7 @@
-SELECT
-    sr.order_date AS date,
-    sr.customer_id,
-    sr.total_spend,
-    cp.gender,
-    cp.religion,
-    cp.region
+SELECT shipment_report.order_date AS date, shipment_report.customer_id, shipment_report.total_spend, customer_persona.gender, customer_persona.religion, customer_persona.region
 FROM
-    shipment_report sr
+    DUFT.dbo.shipment_report
 JOIN
-    customer_persona cp
+    DUFT.dbo.customer_persona
 ON
-    sr.customer_id = cp.persona_id;
+    shipment_report.customer_id = customer_persona.customer_id
