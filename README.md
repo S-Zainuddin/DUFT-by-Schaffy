@@ -138,7 +138,7 @@ This allows me to analyze data from both tables together, making it easier to un
   * Perlis and Sabah recorded the lowest number of customers. These are the rural part of Malaysia
   * Singapore, Perak and Negeri Sembilan are in the middle. These area are neighboring the Metropolitan part of Malaysia.
 
-# Further Anallysis and Act
+# Further Analysis and Act
 
 ### 06. Answering the analysis questions and recommendations:
 
