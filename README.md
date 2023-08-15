@@ -15,10 +15,10 @@ Technical processes included:
 03. Data Cleaning (spreadsheet)
     - [Shipment Report (merged and cleaned),](https://docs.google.com/spreadsheets/d/1wa46LmuE2DELTxfd0UK7dWhwiXqrbVkv-3jxKbVfVyo/edit?usp=sharing)
     - [Customer Report (cleaned)](https://docs.google.com/spreadsheets/d/1tsIvlwGVXkzDTGnek8y7EfeY6NKKjy36HEJ86s0_Nwk/edit?usp=sharing)
-04. Data Combining (SQL)
-05. Data Analysis (SQL)
-06. Data Visualizations 
+04. Data Combining and Analysis (SQL)
+05. Data Visualizations 
     - [Tableau](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
+06. Further Analysis and Act
 
 # Background
 [DUFT by Schaffy](https://duftswiss.com/) is a temporary company to sell only 1000 products run by [Schaffy Zainuddin](https://www.youtube.com/@schaffyzainuddin/), an influencer with more than 170K subcribers on YouTube and over 25K followers on [Instagram](https://www.instagram.com/schaffybuffy/). The company is renowned for its luxurious Swiss-inspired collection, primarily offers exquisite home perfumes, candles, and body scrubs. The Winter Collection, featuring Lavender, caters to introverts seeking solace, while the Spring Collection showcases the elegant Luxurious Rose scent, tailored to invoke confidence at gatherings.
@@ -87,21 +87,60 @@ For customer_persona file:
 - Unsuccessful orders that equals to $0 payment are excluded.
 - Total 14 rows are removed in this step.
 
+# Analyze
+
 ### 04. Combining the Data (SQL)
 
-* Three csv files are uploaded as tables in the dataset 'customer_report' and 'customer_persona'. Another table named "annual_sale" is created, containing 12 rows of data for the entire year.
+* Two csv files are uploaded as tables in the dataset Shipping Report and Customer Persona. Here's an example of how I use the SQL JOIN operation to analyze data from two tables, Shipment Report and Customer Persona
 
-# Analyze, Share and Act
+#### Table 1: Shipping Report
 
-### 05. Data Analysis (SQL)
+| date          | customer_id   | receiver      | status        | charges       |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 8/30/2022     | 587           | David Luqman  | Delivered     | RM 6.05       |
+| 8/30/2022     | 590           | Samihah Johari| Delivered     | RM 6.05       |
+| 8/30/2022     | 593           | Anna Rahim    | Delivered     | RM 6.05       |
 
-*  I utilized SQL to extract data from 2 different tables from the database using **JOIN** for analysis.
+#### Table 2: Customer Persona
 
-### 06. Data Visualization
+| customer_id   | total_spend   | gender        | religion      | region        | country       | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 587           | $124.99       | Male          | Muslim        | Selangor      | Malaysia      |
+| 590           | $87.00        | Female        | Muslim        | Terengganu    | Malaysia      |
+| 593           | $127.00       | Female        | Muslim        | Selangor      | Malaysia      |
+
+This query gives me a result set that combines information from both tables. The result shows each date, customer's id, total spend, age, gender, order date, and the product they ordered:
+
+| date          | customer_id   | total_spend   | gender        | religion      | region        |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 8/30/2022     | 587           | $124.99       | Male          | Muslim        | Selangor      | 
+| 8/30/2022     | 590           | $87.00        | Female        | Muslim        | Terengganu    |
+| 8/30/2022     | 593           | $127.00       | Female        | Muslim        | Selangor      | 
+
+This allows me to analyze data from both tables together, making it easier to understand relationships and draw insights from the combined data.
+
+# Share
+
+### 05. Data Visualization
 
 * Please refer here: [Tableau](https://public.tableau.com/app/profile/syafafa.zainuddin/viz/Book1_16909912115190/NetSalebyMonth?publish=yes)
+* Graph 1:
+  * Goodbye Sale recorded the highest revenue: $17,575. The marketing campaign was held in May 2023 to celebrate the closing of DUFT in 2 months time.
+  * Winter Sale recorded the 2nd highest revenue, $12,968. The marketing campaign was held in December 2022 to celebrate Christmas.
+  * Chinese New Year and Eid Sale recorded the lowest revenue with only $3,967 and $4,709 respectively. The campaigns were held during religious celeberation.
 
-### 07. Answering the analysis questions and recommendations:
+* Graph 2:
+  * Count of orders according gender: 285 Female, 57 Male, 13 Others
+  * Count of orders according to religion: 346 Muslims and 9 Others
+ 
+* Graph 3:
+  * Selangor and Kuala Lumpur recorded the highest number of customers. These are the metropolitan area of Malaysia
+  * Perlis and Sabah recorded the lowest number of customers. These are the rural part of Malaysia
+  * Singapore, Perak and Negeri Sembilan are in the middle. These area are neighboring the Metropolitan part of Malaysia.
+
+# Further Anallysis and Act
+
+### 06. Answering the analysis questions and recommendations:
 
 1. What is the most effective month to launch a marketing campaign for a luxury product in a Muslim country?
 - December (during Christmas time)
