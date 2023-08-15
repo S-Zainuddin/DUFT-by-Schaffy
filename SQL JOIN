@@ -1,0 +1,13 @@
+SELECT
+    sr.order_date AS date,
+    sr.customer_id,
+    sr.total_spend,
+    cp.gender,
+    cp.religion,
+    cp.region
+FROM
+    shipment_report sr
+JOIN
+    customer_persona cp
+ON
+    sr.customer_id = cp.persona_id;
