@@ -1,4 +1,4 @@
-# [DUFT by Schaffy](https://duftswiss.com/)
+# [DUFT by Schaffy](https://duftswiss.com/) Case Study
 A temporary company selling only 1000 limited luxury products.
 
 [Course certificate for Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/P67G9BM7HW47)
